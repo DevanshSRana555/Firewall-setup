@@ -1,5 +1,3 @@
-<img width="1478" height="362" alt="(3)Connection_proof" src="https://github.com/user-attachments/assets/dff2ffd8-1fb7-4c71-8230-d76bc4cfde0c" /># Windows Firewall Configuration Guide 🛡️
-
 A beginner-friendly guide to managing inbound traffic rules using the Windows Defender Firewall GUI.
 
 ## 📋 Prerequisites
